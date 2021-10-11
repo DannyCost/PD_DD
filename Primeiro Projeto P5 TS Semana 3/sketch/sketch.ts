@@ -15,7 +15,7 @@ class Entity {
         image(this.image, this.x * this.step, this.y * this.step, this.step, this.step);
     }
 }
-
+ 
 class Board{
     nl: number; //atributos
     nc: number;
