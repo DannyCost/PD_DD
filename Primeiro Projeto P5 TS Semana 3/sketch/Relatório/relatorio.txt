@@ -1,0 +1,9 @@
+As auterações que eu fiz no código foram, além das imagens, a questão do muro solicitada pelo professor, e do buraco,
+ porém ao invés de o buraco ser um local para o "lobo", representado pelo meu cometa, ficar preso, resolvi colocar
+ para que seja um escape para o astronauta, o buraco negro. A minha maior dificuldade foi lembrar quem era o x e y
+ sempre e assimilar todas as imagens que eu coloquei kkkk. Eu também não tentei fazer uma das sugestões do professor
+ que foi fazer o lobo sempre seguir o coelho, no caso o cometa seguir sempre o astronauta. Em vez disso resolvi deixar
+ o controle para as teclas. Acho que ficaria mais interessante, imagina um jogo de dois players. Eu também coloquei
+ para quando o cometa encostar no astronauta ou v&v o joguinho reiniciar, o mesmo acontece quando o astronauta chega
+ no buraco negro. pra isso eu acrescentei as funcoes "Entrou" e "Bateu", foi acrescentado também a funcao "NaoSaia"
+ que funciona como o muro, porém gostei mais dessa forma.
